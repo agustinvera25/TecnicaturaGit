@@ -20,5 +20,6 @@ public class Ciclos01 {
             numero = Integer.parseInt(entrada.nextLine());
         }
         System.out.println("El programa a finalizado por numero negativo");
+        
     }
 }
