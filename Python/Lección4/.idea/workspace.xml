@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f4a6de09-a339-4898-929e-29a8c1023008" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lección5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lección5/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/CursoPython/Ejercicios Python/Ejercicio5.py" />
   </component>
-  <component name="RunManager" selected="Python.Ejercicio11">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Ejercicio07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lección4" />
       <option name="INTERPRETER_OPTIONS" value="" />
