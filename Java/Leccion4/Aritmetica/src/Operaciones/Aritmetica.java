@@ -16,4 +16,11 @@ public class Aritmetica {
         //int resultado = a + b;
         return a + b;
     }
+    
+    public int sumarConArgumentos(int a, int b){
+        this.a = a;
+        this.b = b;
+        //return a + b;
+        return this.sumarConRetorno();
+    }
 }
